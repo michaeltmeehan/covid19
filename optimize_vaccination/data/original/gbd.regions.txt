@@ -1,0 +1,202 @@
+Afghanistan	North Africa and Middle East	North Africa and Middle East
+Albania	Central Europe	"Central Europe, Eastern Europe, and Central Asia"
+Algeria	North Africa and Middle East	North Africa and Middle East
+Andorra	Western Europe	High-income
+Angola	Central Sub-Saharan Africa	Sub-Saharan Africa
+Antigua and Barbuda	Caribbean	Latin America and Caribbean
+Argentina	Southern Latin America	High-income
+Armenia	Central Asia	"Central Europe, Eastern Europe, and Central Asia"
+Australia	Australasia	High-income
+Austria	Western Europe	High-income
+Azerbaijan	Central Asia	"Central Europe, Eastern Europe, and Central Asia"
+Bahamas	Caribbean	Latin America and Caribbean
+Bahrain	North Africa and Middle East	North Africa and Middle East
+Bangladesh	South Asia	South Asia
+Barbados	Caribbean	Latin America and Caribbean
+Belarus	Eastern Europe	"Central Europe, Eastern Europe, and Central Asia"
+Belgium	Western Europe	High-income
+Belize	Caribbean	Latin America and Caribbean
+Benin	Western Sub-Saharan Africa	Sub-Saharan Africa
+Bhutan	South Asia	South Asia
+Bolivia	Andean Latin America	Latin America and Caribbean
+Bosnia and Herzegovina	Central Europe	"Central Europe, Eastern Europe, and Central Asia"
+Botswana	Southern Sub-Saharan Africa	Sub-Saharan Africa
+Brazil	Tropical Latin America	Latin America and Caribbean
+Brunei	High-income Asia Pacific	High-income
+Bulgaria	Central Europe	"Central Europe, Eastern Europe, and Central Asia"
+Burkina Faso	Western Sub-Saharan Africa	Sub-Saharan Africa
+Burundi	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+Côte d'Ivoire	Western Sub-Saharan Africa	Sub-Saharan Africa
+Cabo Verde	Western Sub-Saharan Africa	Sub-Saharan Africa
+Cambodia	Southeast Asia	"Southeast Asia, East Asia, and Oceania"
+Cameroon	Western Sub-Saharan Africa	Sub-Saharan Africa
+Canada	High-income North America	High-income
+Central African Republic	Central Sub-Saharan Africa	Sub-Saharan Africa
+Chad	Western Sub-Saharan Africa	Sub-Saharan Africa
+Chile	Southern Latin America	High-income
+China	East Asia	"Southeast Asia, East Asia, and Oceania"
+Colombia	Central Latin America	Latin America and Caribbean
+Comoros	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+Congo	Central Sub-Saharan Africa	Sub-Saharan Africa
+Costa Rica	Central Latin America	Latin America and Caribbean
+Country	Region	SuperRegion
+Croatia	Central Europe	"Central Europe, Eastern Europe, and Central Asia"
+Cuba	Caribbean	Latin America and Caribbean
+Cyprus	Western Europe	High-income
+Czech Republic	Central Europe	"Central Europe, Eastern Europe, and Central Asia"
+Democratic Republic of the Congo	Central Sub-Saharan Africa	Sub-Saharan Africa
+Denmark	Western Europe	High-income
+Djibouti	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+Dominica	Caribbean	Latin America and Caribbean
+Dominican Republic	Caribbean	Latin America and Caribbean
+Ecuador	Andean Latin America	Latin America and Caribbean
+Egypt	North Africa and Middle East	North Africa and Middle East
+El Salvador	Central Latin America	Latin America and Caribbean
+Equatorial Guinea	Central Sub-Saharan Africa	Sub-Saharan Africa
+Eritrea	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+Estonia	Eastern Europe	"Central Europe, Eastern Europe, and Central Asia"
+Eswatini	Southern Sub-Saharan Africa	Sub-Saharan Africa
+Ethiopia	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+Fiji	Oceania	"Southeast Asia, East Asia, and Oceania"
+Finland	Western Europe	High-income
+France	Western Europe	High-income
+Gabon	Central Sub-Saharan Africa	Sub-Saharan Africa
+Gambia	Western Sub-Saharan Africa	Sub-Saharan Africa
+Georgia	Central Asia	"Central Europe, Eastern Europe, and Central Asia"
+Germany	Western Europe	High-income
+Ghana	Western Sub-Saharan Africa	Sub-Saharan Africa
+Greece	Western Europe	High-income
+Grenada	Caribbean	Latin America and Caribbean
+Guatemala	Central Latin America	Latin America and Caribbean
+Guinea	Western Sub-Saharan Africa	Sub-Saharan Africa
+Guinea-Bissau	Western Sub-Saharan Africa	Sub-Saharan Africa
+Guyana	Caribbean	Latin America and Caribbean
+Haiti	Caribbean	Latin America and Caribbean
+Honduras	Central Latin America	Latin America and Caribbean
+Hong Kong	High-income Asia Pacific	High-income
+Hungary	Central Europe	"Central Europe, Eastern Europe, and Central Asia"
+Iceland	Western Europe	High-income
+India	South Asia	South Asia
+Indonesia	Southeast Asia	"Southeast Asia, East Asia, and Oceania"
+Iran	North Africa and Middle East	North Africa and Middle East
+Iraq	North Africa and Middle East	North Africa and Middle East
+Ireland	Western Europe	High-income
+Israel	Western Europe	High-income
+Italy	Western Europe	High-income
+Jamaica	Caribbean	Latin America and Caribbean
+Japan	High-income Asia Pacific	High-income
+Jordan	North Africa and Middle East	North Africa and Middle East
+Kazakhstan	Central Asia	"Central Europe, Eastern Europe, and Central Asia"
+Kenya	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+Kiribati	Oceania	"Southeast Asia, East Asia, and Oceania"
+Kosovo	Central Europe	"Central Europe, Eastern Europe, and Central Asia"
+Kuwait	North Africa and Middle East	North Africa and Middle East
+Kyrgyzstan	Central Asia	"Central Europe, Eastern Europe, and Central Asia"
+Lao	Southeast Asia	"Southeast Asia, East Asia, and Oceania"
+Latvia	Eastern Europe	"Central Europe, Eastern Europe, and Central Asia"
+Lebanon	North Africa and Middle East	North Africa and Middle East
+Lesotho	Southern Sub-Saharan Africa	Sub-Saharan Africa
+Liberia	Western Sub-Saharan Africa	Sub-Saharan Africa
+Libya	North Africa and Middle East	North Africa and Middle East
+Liechtenstein	Western Europe	High-income
+Lithuania	Eastern Europe	"Central Europe, Eastern Europe, and Central Asia"
+Luxembourg	Western Europe	High-income
+Madagascar	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+Malawi	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+Malaysia	Southeast Asia	"Southeast Asia, East Asia, and Oceania"
+Maldives	Southeast Asia	"Southeast Asia, East Asia, and Oceania"
+Mali	Western Sub-Saharan Africa	Sub-Saharan Africa
+Malta	Western Europe	High-income
+Marshall Islands	Oceania	"Southeast Asia, East Asia, and Oceania"
+Mauritania	Western Sub-Saharan Africa	Sub-Saharan Africa
+Mauritius	Southeast Asia	"Southeast Asia, East Asia, and Oceania"
+Mexico	Central Latin America	Latin America and Caribbean
+Micronesia	Oceania	"Southeast Asia, East Asia, and Oceania"
+Moldova	Eastern Europe	"Central Europe, Eastern Europe, and Central Asia"
+Monaco	Western Europe	High-income
+Mongolia	Central Asia	"Central Europe, Eastern Europe, and Central Asia"
+Montenegro	Central Europe	"Central Europe, Eastern Europe, and Central Asia"
+Morocco	North Africa and Middle East	North Africa and Middle East
+Mozambique	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+Myanmar	Southeast Asia	"Southeast Asia, East Asia, and Oceania"
+Namibia	Southern Sub-Saharan Africa	Sub-Saharan Africa
+Nauru	Oceania	"Southeast Asia, East Asia, and Oceania"
+Nepal	South Asia	South Asia
+Netherlands	Western Europe	High-income
+New Zealand	Australasia	High-income
+Nicaragua	Central Latin America	Latin America and Caribbean
+Niger	Western Sub-Saharan Africa	Sub-Saharan Africa
+Nigeria	Western Sub-Saharan Africa	Sub-Saharan Africa
+Niue	Oceania	"Southeast Asia, East Asia, and Oceania"
+North Korea	East Asia	"Southeast Asia, East Asia, and Oceania"
+North Macedonia	Central Europe	"Central Europe, Eastern Europe, and Central Asia"
+Norway	Western Europe	High-income
+Oman	North Africa and Middle East	North Africa and Middle East
+Pakistan	South Asia	South Asia
+Palau	Oceania	"Southeast Asia, East Asia, and Oceania"
+Palestine	North Africa and Middle East	North Africa and Middle East
+Panama	Central Latin America	Latin America and Caribbean
+Papua New Guinea	Oceania	"Southeast Asia, East Asia, and Oceania"
+Paraguay	Tropical Latin America	Latin America and Caribbean
+Peru	Andean Latin America	Latin America and Caribbean
+Philippines	Southeast Asia	"Southeast Asia, East Asia, and Oceania"
+Poland	Central Europe	"Central Europe, Eastern Europe, and Central Asia"
+Portugal	Western Europe	High-income
+Puerto Rico	Caribbean	Latin America and Caribbean
+Qatar	North Africa and Middle East	North Africa and Middle East
+Romania	Central Europe	"Central Europe, Eastern Europe, and Central Asia"
+Russia	Eastern Europe	"Central Europe, Eastern Europe, and Central Asia"
+Rwanda	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+Saint Kitts and Nevis	Caribbean	Latin America and Caribbean
+Saint Lucia	Caribbean	Latin America and Caribbean
+Saint Vincent and the Grenadines	Caribbean	Latin America and Caribbean
+Samoa	Oceania	"Southeast Asia, East Asia, and Oceania"
+San Marino	Western Europe	High-income
+Sao Tome and Principe	Western Sub-Saharan Africa	Sub-Saharan Africa
+Saudi Arabia	North Africa and Middle East	North Africa and Middle East
+Senegal	Western Sub-Saharan Africa	Sub-Saharan Africa
+Serbia	Central Europe	"Central Europe, Eastern Europe, and Central Asia"
+Seychelles	Southeast Asia	"Southeast Asia, East Asia, and Oceania"
+Sierra Leone	Western Sub-Saharan Africa	Sub-Saharan Africa
+Singapore	High-income Asia Pacific	High-income
+Slovakia	Central Europe	"Central Europe, Eastern Europe, and Central Asia"
+Slovenia	Central Europe	"Central Europe, Eastern Europe, and Central Asia"
+Solomon Islands	Oceania	"Southeast Asia, East Asia, and Oceania"
+Somalia	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+South Africa	Southern Sub-Saharan Africa	Sub-Saharan Africa
+South Korea	High-income Asia Pacific	High-income
+South Sudan	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+Spain	Western Europe	High-income
+Sri Lanka	Southeast Asia	"Southeast Asia, East Asia, and Oceania"
+Sudan	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+Suriname	Caribbean	Latin America and Caribbean
+Sweden	Western Europe	High-income
+Switzerland	Western Europe	High-income
+Syria	North Africa and Middle East	North Africa and Middle East
+Taiwan	East Asia	"Southeast Asia, East Asia, and Oceania"
+Tajikistan	Central Asia	"Central Europe, Eastern Europe, and Central Asia"
+Tanzania	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+Thailand	Southeast Asia	"Southeast Asia, East Asia, and Oceania"
+Timor-Leste	Southeast Asia	"Southeast Asia, East Asia, and Oceania"
+Togo	Western Sub-Saharan Africa	Sub-Saharan Africa
+Tonga	Oceania	"Southeast Asia, East Asia, and Oceania"
+Trinidad and Tobago	Caribbean	Latin America and Caribbean
+Tunisia	North Africa and Middle East	North Africa and Middle East
+Turkey	North Africa and Middle East	North Africa and Middle East
+Turkmenistan	Central Asia	"Central Europe, Eastern Europe, and Central Asia"
+Tuvalu	Oceania	"Southeast Asia, East Asia, and Oceania"
+Uganda	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+Ukraine	Eastern Europe	"Central Europe, Eastern Europe, and Central Asia"
+United Arab Emirates	North Africa and Middle East	North Africa and Middle East
+United Kingdom	Western Europe	High-income
+United States	High-income North America	High-income
+Uruguay	Southern Latin America	High-income
+Uzbekistan	Central Asia	"Central Europe, Eastern Europe, and Central Asia"
+Vanuatu	Oceania	"Southeast Asia, East Asia, and Oceania"
+Vatican City	Western Europe	High-income
+Venezuela	Central Latin America	Latin America and Caribbean
+Vietnam	Southeast Asia	"Southeast Asia, East Asia, and Oceania"
+Western Sahara	North Africa and Middle East	North Africa and Middle East
+Yemen	North Africa and Middle East	North Africa and Middle East
+Zambia	Eastern Sub-Saharan Africa	Sub-Saharan Africa
+Zimbabwe	Southern Sub-Saharan Africa	Sub-Saharan Africa

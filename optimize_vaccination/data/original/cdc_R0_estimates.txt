@@ -1,0 +1,153 @@
+country	R0
+Albania	2.268619866
+Algeria	1.359804453
+Andorra	2.369430278
+Antigua and Barbuda	2.161249702
+Argentina	2.114039332
+Armenia	2.455894867
+Australia	2.555907746
+Austria	3.014220837
+Azerbaijan	2.158600135
+The Bahamas	2.243114861
+Bahrain	2.340719372
+Bangladesh	1.618150544
+Belarus	2.593992157
+Belgium	3.598750906
+Belize	1.704417133
+Benin	2.081716039
+Bhutan	2.049508299
+Bolivia	2.008007786
+Bosnia and Herzegovina	2.773515832
+Botswana	1.672209023
+Brazil	2.000668138
+Brunei Darussalam	1.838512065
+Bulgaria	3.516513584
+Burkina Faso	1.746152709
+Cabo Verde	1.370927159
+Cambodia	2.13645607
+Cameroon	2.048265381
+Canada	2.764912831
+Chile	2.250373602
+China	2.436220276
+Colombia	1.991293514
+Republic of the Congo	1.650663996
+Costa Rica	1.959367741
+Croatia	3.145637648
+Cyprus	2.581257097
+Czech Republic	3.191568804
+Denmark	3.178220931
+Dominican Republic	1.84662003
+Ecuador	1.872841261
+Egypt	1.434267219
+El Salvador	1.807100125
+Estonia	3.260664329
+Ethiopia	2.061205176
+Fiji	1.647339282
+Finland	3.642853597
+France	2.695491822
+Georgia	2.845504372
+Germany	1.992192824
+Ghana	2.037093803
+Greece	3.141512892
+Guatemala	1.456532041
+Guinea	1.889321783
+Guyana	1.693842844
+Haiti	1.985085178
+Honduras	1.663932437
+"Hong Kong SAR, China"	2.752509203
+Hungary	3.091244309
+Iceland	2.680727273
+India	1.731946682
+Indonesia	2.023743032
+Iran	1.532990892
+Iraq	1.786328929
+Ireland	2.265881554
+Israel	2.094295769
+Italy	4.184994582
+Jamaica	1.911871835
+Japan	4.129337734
+Jordan	1.205029659
+Kazakhstan	2.260229923
+Kenya	1.662633628
+Kiribati	1.471717343
+Kuwait	2.30366179
+Kyrgyzstan	1.73740773
+Laos	1.596029162
+Latvia	3.130583994
+Lebanon	1.719050892
+Lesotho	1.822467736
+Liberia	1.636252518
+Lithuania	2.729513008
+Luxembourg	3.790503975
+Malaysia	2.002208415
+Maldives	1.732855376
+Malta	3.084457675
+Mauritania	1.394961931
+Mauritius	2.102374602
+Mexico	1.800512652
+Monaco	6.948818609
+Mongolia	1.794035207
+Montenegro	2.479650652
+Morocco	1.656326019
+Mozambique	1.883738214
+Namibia	1.959143343
+Nepal	2.17992436
+Netherlands	3.442462007
+New Zealand	2.706603342
+Nicaragua	1.638621311
+Niger	1.502537502
+Nigeria	1.687958581
+Oman	1.973468502
+Pakistan	1.362302503
+Panama	1.823208958
+Paraguay	1.888903384
+Peru	2.126523145
+Philippines	1.854449325
+Poland	3.988150134
+Portugal	3.112975769
+Qatar	3.12696098
+South Korea	2.660925858
+Romania	2.701300678
+Russia	2.716937051
+Rwanda	2.056213329
+Saint Lucia	1.890401748
+Samoa	1.076525619
+Sao Tome and Principe	1.000747553
+Saudi Arabia	1.737660968
+Senegal	1.453346068
+Serbia	3.355805503
+Seychelles	2.146302288
+Sierra Leone	1.934133968
+Singapore	2.684901502
+Slovakia	2.676925475
+Slovenia	2.900625009
+Solomon Islands	1.532266471
+South Africa	1.761731806
+Spain	2.791897321
+Sri Lanka	1.745814561
+Suriname	1.948282615
+Sweden	3.206546953
+Switzerland	3.047627424
+Syria	1.323183696
+Taiwan	2.322016948
+Tajikistan	1.576682563
+Republic of Macedonia	2.467373979
+Thailand	2.542974209
+East Timor	1.393007026
+Tonga	1.271043703
+Tunisia	1.565636087
+Turkey	1.711241587
+Uganda	2.035757104
+Ukraine	3.038229887
+United Arab Emirates	2.615260869
+United Kingdom	2.042228179
+Tanzania	2.097996473
+United States of America	2.465408957
+Uruguay	2.406318413
+Uzbekistan	1.215847893
+Vanuatu	1.746416717
+Venezuela	1.959037916
+Vietnam	2.411435238
+Yemen	1.062837117
+Zambia	1.908191109
+Zimbabwe	1.72485163
