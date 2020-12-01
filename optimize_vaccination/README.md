@@ -8,13 +8,13 @@ Country-specific demographic and contact data can be found in the data/popdata a
 
 ## Running simulations
 
-The code used to calculate the optimal vaccine allocation policies in each country is written in the Julia programming language (v1.5.0). To run the code, open a Julia console and navigate to the `julia` directory. From here, the master optimization function (`optima_master()`) can be imported by executing the command: 
+The code used to calculate the optimal vaccine allocation policies in each country is written in the Julia programming language (v1.5.0). To run the code, open a Julia console and navigate to the `julia` directory. From here, the master optimization function (`optim_master()`) can be imported by executing the command: 
 
 `include("master.jl")`
 
 Individual optimization searches for combinations of countries, optimization targets, parameters, etc. can be run by calling the `optim_master()` function and supplying several keyword arguments. For example, to optimize the hospitalizations and deaths in China, India and the United Kingdom, run the command
 
-`optima_master(countries=["China", "India", "United Kingdom"], targets=["hospitalizations", "deaths"])`
+`optim_master(countries=["China", "India", "United Kingdom"], targets=["hospitalizations", "deaths"])`
 
 The defaults for each argument can be found in the master.jl script.
 
