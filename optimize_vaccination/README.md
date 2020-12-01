@@ -14,7 +14,7 @@ The code used to calculate the optimal vaccine allocation policies in each count
 
 Individual optimization searches for combinations of countries, optimization targets, parameters, etc. can be run by calling the `optim_master()` function and supplying several keyword arguments. For example, to optimize the hospitalizations and deaths in China, India and the United Kingdom, run the command
 
-`optima_master(countries=["China", "India", "United Kingdom"], targets=["hospitalizations", "deaths"])
+`optima_master(countries=["China", "India", "United Kingdom"], targets=["hospitalizations", "deaths"])`
 
 The defaults for each argument can be found in the master.jl script.
 
