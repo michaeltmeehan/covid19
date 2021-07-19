@@ -101,7 +101,7 @@ import_efficacy_data = function(strain, vaccine_1, vaccine_2 = NULL) {
 
 
 # Import all parameters
-get_params = function(country,
+get_params = function(country="Australia",
                       vaccine_1 = "BNT162b2",
                       vaccine_2 = NULL,
                       strain = "Delta",

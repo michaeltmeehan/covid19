@@ -18,9 +18,14 @@ calc_final_size =  function(params, vacc_prop = rep(0, 16)) {
       diag(32) - diag(as.vector(exp(-NGM %*% (1 - x)))) %*% NGM
     }
     
-    final_size = 1 - nleqslv(rep(0.5, 32), f, jac = J, global="cline")$x
+    final_size = 1 - nleqslv(rep(0.05, 32), 
+                             f, 
+                             jac = J, 
+                             global="cline",
+                             control = list(ftol=1e-15,
+                                            xtol=1e-15))$x
     #print(sum(final_size*pop_size/(sum(pop_size))))
-    return(final_size)
+    return(sapply(final_size, function(x){max(x, 0)}))
   }
   )
 }
